@@ -37,7 +37,7 @@ ymaps.ready(function () {
             // Необходимо указать данный тип макета.
             iconLayout: 'default#imageWithContent',
             // Своё изображение иконки метки.
-            iconImageHref: 'images/ball.png',
+            iconImageHref: 'ball.png',
             // Размеры метки.
             iconImageSize: [70, 100],
             // Смещение левого верхнего угла иконки относительно
@@ -58,7 +58,7 @@ ymaps.ready(function () {
             // Необходимо указать данный тип макета.
             iconLayout: 'default#imageWithContent',
             // Своё изображение иконки метки.
-            iconImageHref: 'images/bust.png',
+            iconImageHref: 'bust.png',
             // Размеры метки.
             iconImageSize: [60, 100],
             // Смещение левого верхнего угла иконки относительно
